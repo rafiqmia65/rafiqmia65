@@ -57,10 +57,6 @@ Currently, I'm expanding my skills by learning **Next.js** and **TypeScript** to
 ## 🏆 GitHub Achievements & Contribution
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafiqmia65&theme=onedark" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiqmia65&theme=react-dark" alt="Contribution Graph" />
 </p>
 
