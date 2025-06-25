@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="img/rafiqmia65.png" alt="Md Rafiq Mia" />
-</p>
-
 <h1 align="center">Hi, I'm Md Rafiq Mia 👋</h1>
 <p align="center">
   ⚛️ Frontend Developer | React.js Specialist
+</p>
+
+<p align="center">
+  <img src="img/rafiqmia65.png" alt="Md Rafiq Mia" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ Currently, I'm expanding my skills by learning **Next.js** and **TypeScript** to
 
 ---
 
-## 🏆 GitHub Achievements & Contribution
+## 🏆 GitHub Contribution
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiqmia65&theme=react-dark" alt="Contribution Graph" />
