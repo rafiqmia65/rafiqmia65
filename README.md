@@ -54,19 +54,6 @@ Currently, I'm expanding my skills by learning **Next.js** and **TypeScript** to
 
 ---
 
-## 🎯 Featured Projects
-
-- 🔐 [Hotel Booking App](https://github.com/your-username/hotel-booking)  
-  A full-featured MERN stack booking system with user auth, room filtering, and dynamic pricing.
-
-- 📚 [Learning Management System](https://github.com/your-username/lms-platform)  
-  React + Firebase-powered LMS with student dashboard, progress tracking & teacher panel.
-
-- 📦 [Parcel Delivery Tracker](https://github.com/your-username/parcel-tracker)  
-  A responsive frontend app to track deliveries in real-time using map integration and API data.
-
----
-
 ## 🏆 GitHub Achievements & Contribution
 
 <p align="center">
@@ -81,10 +68,11 @@ Currently, I'm expanding my skills by learning **Next.js** and **TypeScript** to
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rafiqmia65/)  
-[![X](https://img.shields.io/badge/-X-black?style=flat-square&logo=twitter&logoColor=white)](https://x.com/rafiqmia65)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rafiqmia65/)  
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook)](https://www.facebook.com/rafiqmia65/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rafiqmia65/)
+[![X](https://img.shields.io/badge/-X-black?style=flat-square&logo=twitter&logoColor=white)](https://x.com/rafiqmia65)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rafiqmia65/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook)](https://www.facebook.com/rafiqmia65/)
+
 📫 **Email:** rafiqdeveloper4465@gmail.com
 
 <!-- 🌐 **Portfolio:** [https://your-portfolio.com](https://your-portfolio.com) -->
