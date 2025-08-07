@@ -19,25 +19,41 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 
 ## 🧠 Learning Journey & Focus Areas
 
+---
+
 ### 🌱 Currently Learning
 
-- 📘 **TypeScript**
-- ⚡ **Next.js**
+- 📘 **TypeScript**  
+  Enhancing type safety and developer experience to build scalable and maintainable codebases.
+- ⚡ **Next.js**  
+  Exploring server-side rendering, static site generation, and API routes to create performant React apps.
+
+---
 
 ### 🛠 Exploring
 
-- 🧩 **Frontend architecture best practices**
-- 🏗️ **Scalable and maintainable code structures**
+- 🧩 **Frontend Architecture Best Practices**  
+  Investigating design patterns, state management strategies, and component-driven development for robust frontend systems.
+- 🏗️ **Scalable & Maintainable Code Structures**  
+  Focusing on modularization, clean code principles, and efficient folder organization to support long-term project growth.
+
+---
 
 ### 📘 Building
 
-- 🧱 **Reusable React components**
-- 🎨 **Custom UI libraries**
+- 🧱 **Reusable React Components**  
+  Creating flexible, customizable, and well-documented components to accelerate development and maintain consistency.
+- 🎨 **Custom UI Libraries**  
+  Developing design systems and style guides to deliver cohesive and accessible user experiences across projects.
+
+---
 
 ### 🤝 Open to Collaborate On
 
-- 🚀 **Open-source React projects**
-- 🌍 **Community-driven development**
+- 🚀 **Open-Source React Projects**  
+  Actively seeking opportunities to contribute to innovative projects that solve real-world problems.
+- 🌍 **Community-Driven Development**  
+  Passionate about collaborating with diverse teams, sharing knowledge, and fostering growth in the developer community.
 
 ---
 
@@ -51,7 +67,7 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3" />
 </p>
 
-### ⚛️ Frontend
+### 💻 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;
@@ -90,6 +106,10 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
     </td>
   </tr>
 </table>
+
+<p align="center">
+   <img src="https://img.shields.io/github/commit-activity/m/rafiqmia65?color=purple&style=for-the-badge" alt="Commit Activity" />
+</p>
 
 ---
 
