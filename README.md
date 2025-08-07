@@ -130,18 +130,20 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
   <a href="https://x.com/rafiqmia65" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>&nbsp;
-  <a href="https://www.instagram.com/rafiqmia65/" target="_blank">
+  <!-- <a href="https://www.instagram.com/rafiqmia65/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>&nbsp;
   <a href="https://www.facebook.com/rafiqmia65/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>&nbsp;
+  </a>&nbsp; -->
   <a href="https://rafiqmia.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 📫 **Email:** [rafiqdeveloper4465@gmail.com](mailto:rafiqdeveloper4465@gmail.com)
+
+📍 **Location:** Dhaka, Bangladesh
 
 ---
 
