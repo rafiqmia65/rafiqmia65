@@ -17,41 +17,22 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 
 ---
 
-### 🚀 Currently Learning
-
-- **Next.js**
-- **TypeScript**
-
----
-
-I strive to continuously improve and embrace new technologies to build efficient and scalable applications within the React ecosystem.
-
----
-
 ## 🧠 Learning Journey & Focus Areas
-
----
 
 ### 🌱 Currently Learning
 
 - 📘 **TypeScript**
 - ⚡ **Next.js**
 
----
-
 ### 🛠 Exploring
 
 - 🧩 **Frontend architecture best practices**
 - 🏗️ **Scalable and maintainable code structures**
 
----
-
 ### 📘 Building
 
 - 🧱 **Reusable React components**
 - 🎨 **Custom UI libraries**
-
----
 
 ### 🤝 Open to Collaborate On
 
@@ -62,8 +43,6 @@ I strive to continuously improve and embrace new technologies to build efficient
 
 ## 🛠 Tech Stack
 
----
-
 ### 👨‍💻 Core
 
 <p>
@@ -71,8 +50,6 @@ I strive to continuously improve and embrace new technologies to build efficient
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" />&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3" />
 </p>
-
----
 
 ### ⚛️ Frontend
 
@@ -84,8 +61,6 @@ I strive to continuously improve and embrace new technologies to build efficient
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff" alt="Tailwind CSS" />
 </p>
 
----
-
 ### 🧠 Backend Knowledge
 
 <p>
@@ -93,8 +68,6 @@ I strive to continuously improve and embrace new technologies to build efficient
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff" alt="Express.js" />&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB" />
 </p>
-
----
 
 ### 🚀 Currently Learning
 
@@ -105,7 +78,22 @@ I strive to continuously improve and embrace new technologies to build efficient
 
 ---
 
-## 🏆 GitHub Contribution
+## 📊 GitHub Stats & Top Languages
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=rafiqmia65&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqmia65&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Contribution
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiqmia65&theme=react-dark" alt="Contribution Graph" />
@@ -134,18 +122,6 @@ I strive to continuously improve and embrace new technologies to build efficient
 </p>
 
 📫 **Email:** [rafiqdeveloper4465@gmail.com](mailto:rafiqdeveloper4465@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafiqmia65&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rafiqmia65&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqmia65&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
