@@ -108,7 +108,7 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 </table>
 
 <p align="center">
-   <img src="https://img.shields.io/github/commit-activity/m/rafiqmia65?color=purple&style=for-the-badge" alt="Commit Activity" />
+   <img src="https://img.shields.io/github/commit-activity/y/rafiqmia65/mentorium?color=purple&style=for-the-badge" alt="Commit Activity" />
 </p>
 
 ---
