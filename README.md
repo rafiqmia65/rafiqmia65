@@ -11,46 +11,97 @@
 
 ## 💫 About Me
 
-I'm a **Frontend Developer** passionate about building modern, responsive, and user-friendly web interfaces using **React**.  
-Alongside my frontend expertise, I have practical experience with **MongoDB** and **Express.js**, enabling me to contribute to full-stack solutions when needed.
+I'm a **Frontend Developer** passionate about building modern, responsive, and user-friendly web interfaces using **React**.
 
-Currently, I'm expanding my skills by learning **Next.js** and **TypeScript** to become more versatile within the React ecosystem.
+Alongside my frontend expertise, I have practical experience with **MongoDB** and **Express.js**, enabling me to contribute to full-stack solutions when needed.
 
 ---
 
-## 🔭 What I'm Working On
+### 🚀 Currently Learning
 
-- 🌱 Learning **TypeScript** and **Next.js**
-- 🛠 Exploring best practices in frontend architecture
-- 📘 Building reusable components & UI libraries
-- 🤝 Looking to collaborate on open-source React projects
+- **Next.js**
+- **TypeScript**
+
+---
+
+I strive to continuously improve and embrace new technologies to build efficient and scalable applications within the React ecosystem.
+
+---
+
+## 🧠 Learning Journey & Focus Areas
+
+---
+
+### 🌱 Currently Learning
+
+- 📘 **TypeScript**
+- ⚡ **Next.js**
+
+---
+
+### 🛠 Exploring
+
+- 🧩 **Frontend architecture best practices**
+- 🏗️ **Scalable and maintainable code structures**
+
+---
+
+### 📘 Building
+
+- 🧱 **Reusable React components**
+- 🎨 **Custom UI libraries**
+
+---
+
+### 🤝 Open to Collaborate On
+
+- 🚀 **Open-source React projects**
+- 🌍 **Community-driven development**
 
 ---
 
 ## 🛠 Tech Stack
 
+---
+
 ### 👨‍💻 Core
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3" />
+</p>
+
+---
 
 ### ⚛️ Frontend
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Router](https://img.shields.io/badge/-React_Router-black?style=flat-square&logo=react-router)
-![React Query](https://img.shields.io/badge/-React_Query-black?style=flat-square&logo=react-query)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=fff" alt="React Router" />&nbsp;
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=fff" alt="React Query" />&nbsp;
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=fff" alt="Redux" />&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff" alt="Tailwind CSS" />
+</p>
+
+---
 
 ### 🧠 Backend Knowledge
 
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff" alt="Express.js" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB" />
+</p>
+
+---
 
 ### 🚀 Currently Learning
 
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff" alt="Next.js" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
+</p>
 
 ---
 
@@ -64,27 +115,41 @@ Currently, I'm expanding my skills by learning **Next.js** and **TypeScript** to
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rafiqmia65/)
-[![X](https://img.shields.io/badge/-X-black?style=flat-square&logo=twitter&logoColor=white)](https://x.com/rafiqmia65)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rafiqmia65/)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook)](https://www.facebook.com/rafiqmia65/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/rafiqmia65/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://x.com/rafiqmia65" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/rafiqmia65/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;
+  <a href="https://www.facebook.com/rafiqmia65/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>&nbsp;
+  <a href="https://rafiqmia.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-📫 **Email:** rafiqdeveloper4465@gmail.com
-
-<!-- 🌐 **Portfolio:** [https://your-portfolio.com](https://your-portfolio.com) -->
+📫 **Email:** [rafiqdeveloper4465@gmail.com](mailto:rafiqdeveloper4465@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafiqmia65&show_icons=true&theme=react" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rafiqmia65&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafiqmia65&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rafiqmia65&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqmia65&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-<p align="center">
-  🚀 "Learning never exhausts the mind. It ignites it." – Leonardo da Vinci
-</p>
+<h3 align="center">
+  🚀 <i>"Learning never exhausts the mind. It ignites it."</i><br />
+  — <strong>Leonardo da Vinci</strong>
+</h3>
