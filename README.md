@@ -121,6 +121,8 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 
 ---
 
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -135,7 +137,9 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
   </a>
 </p>
 
-<table align="left" width="100%">
+---
+
+<table align="center" width="100%">
   <tr>
     <td align="left" width="5%">🌐</td>
     <td align="left" width="95%">**Languages:**
