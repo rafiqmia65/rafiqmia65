@@ -139,40 +139,48 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 
 ---
 
-<table align="center" width="100%" style="border-collapse: collapse; font-family: Arial, sans-serif;">
+<table align="center" width="100%" style="border-collapse: collapse; font-family: Arial, sans-serif; max-width: 600px;">
   <tr>
-    <td colspan="2" style="padding: 10px 0; border-bottom: 1px solid #e0e0e0;">
+    <td colspan="4" style="padding: 15px 0; border-bottom: 2px solid #3498db; text-align: center;">
       <h2 style="margin: 0; color: #2c3e50;">Contact Information</h2>
     </td>
   </tr>
+  
+  <!-- First Row - Languages and Email -->
   <tr>
-    <td style="padding: 12px 0; width: 40px; text-align: center; vertical-align: top; color: #3498db;">🌐</td>
-    <td style="padding: 12px 0;">
-      <strong style="color: #2c3e50;">Languages:</strong><br>
-      <span style="display: inline-block; margin-top: 5px;">
-        <span style="margin-right: 15px;">🇬🇧 English</span>
-        <span style="margin-right: 15px;">🇧🇩 Bangla</span>
+    <!-- Languages -->
+    <td style="padding: 15px 10px; width: 40px; text-align: center; vertical-align: top; color: #3498db;">🌐</td>
+    <td style="padding: 15px 10px; border-right: 1px solid #f0f0f0;">
+      <strong style="color: #2c3e50; display: block; margin-bottom: 5px;">Languages</strong>
+      <div style="display: flex; gap: 15px;">
+        <span>🇬🇧 English</span>
+        <span>🇧🇩 Bangla</span>
         <span>🇮🇳 Hindi</span>
-      </span>
+      </div>
+    </td>
+    
+    <!-- Email -->
+    <td style="padding: 15px 10px; width: 40px; text-align: center; vertical-align: top; color: #3498db;">📫</td>
+    <td style="padding: 15px 10px;">
+      <strong style="color: #2c3e50; display: block; margin-bottom: 5px;">Email</strong>
+      <a href="mailto:rafiqdeveloper4465@gmail.com" style="color: #2980b9; text-decoration: none; word-break: break-all;">rafiqdeveloper4465@gmail.com</a>
     </td>
   </tr>
+  
+  <!-- Second Row - Mobile and Location -->
   <tr>
-    <td style="padding: 12px 0; text-align: center; vertical-align: top; color: #3498db;">📫</td>
-    <td style="padding: 12px 0;">
-      <strong style="color: #2c3e50;">Email:</strong> 
-      <a href="mailto:rafiqdeveloper4465@gmail.com" style="color: #2980b9; text-decoration: none;">rafiqdeveloper4465@gmail.com</a>
+    <!-- Mobile -->
+    <td style="padding: 15px 10px; text-align: center; vertical-align: top; color: #3498db;">📱</td>
+    <td style="padding: 15px 10px; border-right: 1px solid #f0f0f0;">
+      <strong style="color: #2c3e50; display: block; margin-bottom: 5px;">Mobile</strong>
+      +880174113-4465
     </td>
-  </tr>
-  <tr>
-    <td style="padding: 12px 0; text-align: center; vertical-align: top; color: #3498db;">📱</td>
-    <td style="padding: 12px 0;">
-      <strong style="color: #2c3e50;">Mobile:</strong> +880174113-4465
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 12px 0; text-align: center; vertical-align: top; color: #3498db;">📍</td>
-    <td style="padding: 12px 0;">
-      <strong style="color: #2c3e50;">Location:</strong> Dhaka, Bangladesh
+    
+    <!-- Location -->
+    <td style="padding: 15px 10px; text-align: center; vertical-align: top; color: #3498db;">📍</td>
+    <td style="padding: 15px 10px;">
+      <strong style="color: #2c3e50; display: block; margin-bottom: 5px;">Location</strong>
+      Dhaka, Bangladesh
     </td>
   </tr>
 </table>
