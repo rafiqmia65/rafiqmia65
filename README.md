@@ -144,9 +144,10 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
       <p style="margin: 0;">📫 <strong>Email</strong><br/>
       <span style="margin-left: 20px;"><a href="mailto:rafiqdeveloper4465@gmail.com" style="color: #61DAFB; text-decoration: none;">rafiqdeveloper4465@gmail.com</a></span></p>
     </td>
+   ---
     <td width="50%" style="padding: 15px; vertical-align: top;">
       <p style="margin: 0 0 10px 0;">📱 <strong>Mobile</strong><br/>
-      <span style="margin-left: 20px;">+880174113-4465</span></p>
+      <span style="margin-left: 20px;">+8801741-134465</span></p>
       
       <p style="margin: 0;">📍 <strong>Location</strong><br/>
       <span style="margin-left: 20px;">Dhaka, Bangladesh</span></p>
