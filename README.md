@@ -97,10 +97,10 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=rafiqmia65&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rafiqmia65&show_icons=true&theme=synthwave&hide_border=true&rank_icon=github" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqmia65&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqmia65&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
