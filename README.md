@@ -143,9 +143,9 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
   <tr>
     <td align="left" width="5%">🌐</td>
     <td align="left" width="95%">**Languages:**
-* 🇬🇧 English
-* 🇧🇩 Bangla
-* 🇮🇳 Hindi</td>
+1.  English
+2.  Bangla
+3.  Hindi</td>
   </tr>
   <tr>
     <td align="left" width="5%">📫</td>
