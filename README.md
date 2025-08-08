@@ -22,36 +22,36 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 ### 🌱 Currently Learning
 
 - 📘 **TypeScript**  
-    Enhancing type safety and developer experience to build scalable and maintainable codebases.
+      Enhancing type safety and developer experience to build scalable and maintainable codebases.
 - ⚡ **Next.js**  
-    Exploring server-side rendering, static site generation, and API routes to create performant React apps.
+      Exploring server-side rendering, static site generation, and API routes to create performant React apps.
 
 ---
 
 ### 🛠 Exploring
 
 - 🧩 **Frontend Architecture Best Practices**  
-    Investigating design patterns, state management strategies, and component-driven development for robust frontend systems.
+      Investigating design patterns, state management strategies, and component-driven development for robust frontend systems.
 - 🏗️ **Scalable & Maintainable Code Structures**  
-    Focusing on modularization, clean code principles, and efficient folder organization to support long-term project growth.
+      Focusing on modularization, clean code principles, and efficient folder organization to support long-term project growth.
 
 ---
 
 ### 📘 Building
 
 - 🧱 **Reusable React Components**  
-    Creating flexible, customizable, and well-documented components to accelerate development and maintain consistency.
+      Creating flexible, customizable, and well-documented components to accelerate development and maintain consistency.
 - 🎨 **Custom UI Libraries**  
-    Developing design systems and style guides to deliver cohesive and accessible user experiences across projects.
+     Developing design systems and style guides to deliver cohesive and accessible user experiences across projects.
 
 ---
 
 ### 🤝 Open to Collaborate On
 
 - 🚀 **Open-Source React Projects**  
-    Actively seeking opportunities to contribute to innovative projects that solve real-world problems.
+      Actively seeking opportunities to contribute to innovative projects that solve real-world problems.
 - 🌍 **Community-Driven Development**  
-    Passionate about collaborating with diverse teams, sharing knowledge, and fostering growth in the developer community.
+      Passionate about collaborating with diverse teams, sharing knowledge, and fostering growth in the developer community.
 
 ---
 
@@ -106,7 +106,7 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=rafiqmia65&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=rafiqmia65&theme=radical&hide_border=true&date=2025-08-08" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -116,8 +116,6 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiqmia65&theme=react-dark" alt="Contribution Graph" />
 </p>
-
----
 
 ---
 
@@ -137,23 +135,23 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 
 ---
 
-<table width="100%" style="border-collapse: collapse; font-family: Arial, sans-serif;">
-  <tr>
-    <td width="50%" style="padding: 15px; border-right: 1px solid #f0f0f0;">
-      <p>🌐 <strong>Languages</strong><br/>
-      🇬🇧 English | 🇧🇩 Bangla | 🇮🇳 Hindi</p>
-      
-      <p>📫 <strong>Email</strong><br/>
-      <a href="mailto:rafiqdeveloper4465@gmail.com">rafiqdeveloper4465@gmail.com</a></p>
-    </td>
-    <td width="50%" style="padding: 15px;">
-      <p>📱 <strong>Mobile</strong><br/>
-      +880174113-4465</p>
-      
-      <p>📍 <strong>Location</strong><br/>
-      Dhaka, Bangladesh</p>
-    </td>
-  </tr>
+<table align="center" width="100%" style="border-collapse: collapse; font-family: Arial, sans-serif;">
+  <tr>
+    <td width="50%" style="padding: 15px; border-right: 1px solid #e0e0e0; vertical-align: top;">
+      <p style="margin: 0 0 10px 0;">🌐 <strong>Languages</strong><br/>
+      <span style="margin-left: 20px;">🇬🇧 English | 🇧🇩 Bangla | 🇮🇳 Hindi</span></p>
+      
+      <p style="margin: 0;">📫 <strong>Email</strong><br/>
+      <span style="margin-left: 20px;"><a href="mailto:rafiqdeveloper4465@gmail.com" style="color: #61DAFB; text-decoration: none;">rafiqdeveloper4465@gmail.com</a></span></p>
+    </td>
+    <td width="50%" style="padding: 15px; vertical-align: top;">
+      <p style="margin: 0 0 10px 0;">📱 <strong>Mobile</strong><br/>
+      <span style="margin-left: 20px;">+880174113-4465</span></p>
+      
+      <p style="margin: 0;">📍 <strong>Location</strong><br/>
+      <span style="margin-left: 20px;">Dhaka, Bangladesh</span></p>
+    </td>
+  </tr>
 </table>
 
 ---
