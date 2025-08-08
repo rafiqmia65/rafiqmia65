@@ -149,7 +149,7 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
   </tr>
   <tr>
     <td align="left" width="5%">📫</td>
-    <td align="left" width="95%">**Email:** [rafiqdeveloper4465@gmail.com](mailto:rafiqdeveloper4465@gmail.com)</td>
+    <td align="left" width="95%">📫 **Email:** [rafiqdeveloper4465@gmail.com](mailto:rafiqdeveloper4465@gmail.com)</td>
   </tr>
   <tr>
     <td align="left" width="5%">📱</td>
