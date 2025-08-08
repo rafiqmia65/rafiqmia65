@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Md Rafiq Mia 👋</h1>
 <p align="center">
-  ⚛️ Frontend Developer | React.js Specialist
+  ⚛️ Frontend Developer | React.js Specialist
 </p>
 
 <p align="center">
-  <img src="img/rafiqmia65.png" alt="Md Rafiq Mia" />
+  <img src="img/rafiqmia65.png" alt="Md Rafiq Mia" />
 </p>
 
 ---
@@ -23,37 +23,37 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 
 ### 🌱 Currently Learning
 
-- 📘 **TypeScript**  
-  Enhancing type safety and developer experience to build scalable and maintainable codebases.
-- ⚡ **Next.js**  
-  Exploring server-side rendering, static site generation, and API routes to create performant React apps.
+- 📘 **TypeScript**  
+    Enhancing type safety and developer experience to build scalable and maintainable codebases.
+- ⚡ **Next.js**  
+    Exploring server-side rendering, static site generation, and API routes to create performant React apps.
 
 ---
 
 ### 🛠 Exploring
 
-- 🧩 **Frontend Architecture Best Practices**  
-  Investigating design patterns, state management strategies, and component-driven development for robust frontend systems.
-- 🏗️ **Scalable & Maintainable Code Structures**  
-  Focusing on modularization, clean code principles, and efficient folder organization to support long-term project growth.
+- 🧩 **Frontend Architecture Best Practices**  
+    Investigating design patterns, state management strategies, and component-driven development for robust frontend systems.
+- 🏗️ **Scalable & Maintainable Code Structures**  
+    Focusing on modularization, clean code principles, and efficient folder organization to support long-term project growth.
 
 ---
 
 ### 📘 Building
 
-- 🧱 **Reusable React Components**  
-  Creating flexible, customizable, and well-documented components to accelerate development and maintain consistency.
-- 🎨 **Custom UI Libraries**  
-  Developing design systems and style guides to deliver cohesive and accessible user experiences across projects.
+- 🧱 **Reusable React Components**  
+    Creating flexible, customizable, and well-documented components to accelerate development and maintain consistency.
+- 🎨 **Custom UI Libraries**  
+    Developing design systems and style guides to deliver cohesive and accessible user experiences across projects.
 
 ---
 
 ### 🤝 Open to Collaborate On
 
-- 🚀 **Open-Source React Projects**  
-  Actively seeking opportunities to contribute to innovative projects that solve real-world problems.
-- 🌍 **Community-Driven Development**  
-  Passionate about collaborating with diverse teams, sharing knowledge, and fostering growth in the developer community.
+- 🚀 **Open-Source React Projects**  
+    Actively seeking opportunities to contribute to innovative projects that solve real-world problems.
+- 🌍 **Community-Driven Development**  
+    Passionate about collaborating with diverse teams, sharing knowledge, and fostering growth in the developer community.
 
 ---
 
@@ -62,34 +62,34 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 ### 👨‍💻 Core
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3" />
 </p>
 
 ### 💻 Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=fff" alt="React Router" />&nbsp;
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=fff" alt="React Query" />&nbsp;
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=fff" alt="Redux" />&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=fff" alt="React Router" />&nbsp;
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=fff" alt="React Query" />&nbsp;
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=fff" alt="Redux" />&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff" alt="Tailwind CSS" />
 </p>
 
 ### 🧠 Backend Knowledge
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" />&nbsp;
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff" alt="Express.js" />&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff" alt="Express.js" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB" />
 </p>
 
 ### 🚀 Currently Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff" alt="Next.js" />&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff" alt="Next.js" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
 </p>
 
 ---
@@ -97,18 +97,18 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 ## 📊 GitHub Stats & Top Languages
 
 <table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=rafiqmia65&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqmia65&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=rafiqmia65&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqmia65&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rafiqmia65&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=rafiqmia65&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -116,7 +116,7 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 ## 📈 GitHub Contribution
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiqmia65&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiqmia65&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ---
@@ -124,30 +124,26 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rafiqmia65/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://x.com/rafiqmia65" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>&nbsp;
-  <!-- <a href="https://www.instagram.com/rafiqmia65/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>&nbsp;
-  <a href="https://www.facebook.com/rafiqmia65/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>&nbsp; -->
-  <a href="https://rafiqmia.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://www.linkedin.com/in/rafiqmia65/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://x.com/rafiqmia65" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>&nbsp;
+    <a href="https://rafiqmia.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
-📫 **Email:** [rafiqdeveloper4465@gmail.com](mailto:rafiqdeveloper4465@gmail.com)
+🌐 **Languages:** 🇬🇧 English, 🇧🇩 Bangla, 🇮🇳 Hindi
 
+📫 **Email:** [rafiqdeveloper4465@gmail.com](mailto:rafiqdeveloper4465@gmail.com)
+📱 **Mobile:** +880174113-4465
 📍 **Location:** Dhaka, Bangladesh
 
 ---
 
 <h3 align="center">
-  🚀 <i>"Learning never exhausts the mind. It ignites it."</i><br />
-  — <strong>Leonardo da Vinci</strong>
+  🚀 <i>"Learning never exhausts the mind. It ignites it."</i><br />
+  — <strong>Leonardo da Vinci</strong>
 </h3>
