@@ -139,26 +139,42 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 
 ---
 
-<table align="center" width="100%">
-  <tr>
-    <td align="left" width="5%">🌐</td>
-    <td align="left" width="95%">**Languages:**
-1.  English
-2.  Bangla
-3.  Hindi</td>
-  </tr>
-  <tr>
-    <td align="left" width="5%">📫</td>
-    <td align="left" width="95%">📫 **Email:** [rafiqdeveloper4465@gmail.com](mailto:rafiqdeveloper4465@gmail.com)</td>
-  </tr>
-  <tr>
-    <td align="left" width="5%">📱</td>
-    <td align="left" width="95%">**Mobile:** +880174113-4465</td>
-  </tr>
-  <tr>
-    <td align="left" width="5%">📍</td>
-    <td align="left" width="95%">**Location:** Dhaka, Bangladesh</td>
-  </tr>
+<table align="center" width="100%" style="border-collapse: collapse; font-family: Arial, sans-serif;">
+  <tr>
+    <td colspan="2" style="padding: 10px 0; border-bottom: 1px solid #e0e0e0;">
+      <h2 style="margin: 0; color: #2c3e50;">Contact Information</h2>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 12px 0; width: 40px; text-align: center; vertical-align: top; color: #3498db;">🌐</td>
+    <td style="padding: 12px 0;">
+      <strong style="color: #2c3e50;">Languages:</strong><br>
+      <span style="display: inline-block; margin-top: 5px;">
+        <span style="margin-right: 15px;">🇬🇧 English</span>
+        <span style="margin-right: 15px;">🇧🇩 Bangla</span>
+        <span>🇮🇳 Hindi</span>
+      </span>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 12px 0; text-align: center; vertical-align: top; color: #3498db;">📫</td>
+    <td style="padding: 12px 0;">
+      <strong style="color: #2c3e50;">Email:</strong> 
+      <a href="mailto:rafiqdeveloper4465@gmail.com" style="color: #2980b9; text-decoration: none;">rafiqdeveloper4465@gmail.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 12px 0; text-align: center; vertical-align: top; color: #3498db;">📱</td>
+    <td style="padding: 12px 0;">
+      <strong style="color: #2c3e50;">Mobile:</strong> +880174113-4465
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 12px 0; text-align: center; vertical-align: top; color: #3498db;">📍</td>
+    <td style="padding: 12px 0;">
+      <strong style="color: #2c3e50;">Location:</strong> Dhaka, Bangladesh
+    </td>
+  </tr>
 </table>
 
 ---
