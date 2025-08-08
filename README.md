@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Md Rafiq Mia 👋</h1>
-<p align="center">
-  ⚛️ Frontend Developer | React.js Specialist
-</p>
+<h3 align="center">⚡ Frontend Developer | React Specialist | UI Enthusiast</h3>
 
 <p align="center">
   <img src="img/rafiqmia65.png" alt="Md Rafiq Mia" />
@@ -108,7 +106,7 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=rafiqmia65&theme=radical&hide_border=true&date=2025-08-08" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=rafiqmia65&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -139,48 +137,21 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 
 ---
 
-<table align="center" width="100%" style="border-collapse: collapse; font-family: Arial, sans-serif; max-width: 600px;">
+<table width="100%" style="border-collapse: collapse; font-family: Arial, sans-serif;">
   <tr>
-    <td colspan="4" style="padding: 15px 0; border-bottom: 2px solid #3498db; text-align: center;">
-      <h2 style="margin: 0; color: #2c3e50;">Contact Information</h2>
+    <td width="50%" style="padding: 15px; border-right: 1px solid #f0f0f0;">
+      <p>🌐 <strong>Languages</strong><br/>
+      🇬🇧 English | 🇧🇩 Bangla | 🇮🇳 Hindi</p>
+      
+      <p>📫 <strong>Email</strong><br/>
+      <a href="mailto:rafiqdeveloper4465@gmail.com">rafiqdeveloper4465@gmail.com</a></p>
     </td>
-  </tr>
-  
-  <!-- First Row - Languages and Email -->
-  <tr>
-    <!-- Languages -->
-    <td style="padding: 15px 10px; width: 40px; text-align: center; vertical-align: top; color: #3498db;">🌐</td>
-    <td style="padding: 15px 10px; border-right: 1px solid #f0f0f0;">
-      <strong style="color: #2c3e50; display: block; margin-bottom: 5px;">Languages</strong>
-      <div style="display: flex; gap: 15px;">
-        <span>🇬🇧 English</span>
-        <span>🇧🇩 Bangla</span>
-        <span>🇮🇳 Hindi</span>
-      </div>
-    </td>
-    
-    <!-- Email -->
-    <td style="padding: 15px 10px; width: 40px; text-align: center; vertical-align: top; color: #3498db;">📫</td>
-    <td style="padding: 15px 10px;">
-      <strong style="color: #2c3e50; display: block; margin-bottom: 5px;">Email</strong>
-      <a href="mailto:rafiqdeveloper4465@gmail.com" style="color: #2980b9; text-decoration: none; word-break: break-all;">rafiqdeveloper4465@gmail.com</a>
-    </td>
-  </tr>
-  
-  <!-- Second Row - Mobile and Location -->
-  <tr>
-    <!-- Mobile -->
-    <td style="padding: 15px 10px; text-align: center; vertical-align: top; color: #3498db;">📱</td>
-    <td style="padding: 15px 10px; border-right: 1px solid #f0f0f0;">
-      <strong style="color: #2c3e50; display: block; margin-bottom: 5px;">Mobile</strong>
-      +880174113-4465
-    </td>
-    
-    <!-- Location -->
-    <td style="padding: 15px 10px; text-align: center; vertical-align: top; color: #3498db;">📍</td>
-    <td style="padding: 15px 10px;">
-      <strong style="color: #2c3e50; display: block; margin-bottom: 5px;">Location</strong>
-      Dhaka, Bangladesh
+    <td width="50%" style="padding: 15px;">
+      <p>📱 <strong>Mobile</strong><br/>
+      +880174113-4465</p>
+      
+      <p>📍 <strong>Location</strong><br/>
+      Dhaka, Bangladesh</p>
     </td>
   </tr>
 </table>
