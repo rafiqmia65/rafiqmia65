@@ -108,7 +108,7 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=rafiqmia65&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=rafiqmia65&theme=radical&hide_border=true&date=2025-08-08" alt="GitHub Streak" />
 </p>
 
 ---
@@ -135,11 +135,27 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
   </a>
 </p>
 
-🌐 **Languages:** 🇬🇧 English, 🇧🇩 Bangla, 🇮🇳 Hindi
-
-📫 **Email:** [rafiqdeveloper4465@gmail.com](mailto:rafiqdeveloper4465@gmail.com)
-📱 **Mobile:** +880174113-4465
-📍 **Location:** Dhaka, Bangladesh
+<table align="left" width="100%">
+  <tr>
+    <td align="left" width="5%">🌐</td>
+    <td align="left" width="95%">**Languages:**
+* 🇬🇧 English
+* 🇧🇩 Bangla
+* 🇮🇳 Hindi</td>
+  </tr>
+  <tr>
+    <td align="left" width="5%">📫</td>
+    <td align="left" width="95%">**Email:** [rafiqdeveloper4465@gmail.com](mailto:rafiqdeveloper4465@gmail.com)</td>
+  </tr>
+  <tr>
+    <td align="left" width="5%">📱</td>
+    <td align="left" width="95%">**Mobile:** +880174113-4465</td>
+  </tr>
+  <tr>
+    <td align="left" width="5%">📍</td>
+    <td align="left" width="95%">**Location:** Dhaka, Bangladesh</td>
+  </tr>
+</table>
 
 ---
 
