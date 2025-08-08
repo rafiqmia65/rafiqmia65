@@ -106,7 +106,7 @@ Alongside my frontend expertise, I have practical experience with **MongoDB** an
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rafiqmia65&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=rafiqmia65&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
