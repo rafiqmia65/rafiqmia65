@@ -12,6 +12,7 @@
 I’m a dedicated **Frontend Developer** specializing in **React.js** and modern web technologies. I’m passionate about building **responsive UIs, writing clean code, and designing scalable architectures**, with practical experience in the **MERN stack** for full-stack solutions.
 
 📩 Open to exciting opportunities — let’s connect and build something impactful together!
+
 👇 You’ll find my contact information below.
 
 ---
