@@ -13,6 +13,7 @@ I’m a dedicated **Frontend Developer** specializing in **React.js** and modern
 
 📩 Open to exciting opportunities — let’s connect and build something impactful together!
 👇 You’ll find my contact information below.
+
 ---
 
 ## 🧠 Learning Journey & Focus Areas
