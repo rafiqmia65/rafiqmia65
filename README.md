@@ -9,10 +9,10 @@
 
 ## 💫 About Me
 
-I'm a **Frontend Developer** passionate about building modern, responsive, and user-friendly web interfaces using **React**.
+I’m a dedicated **Frontend Developer** specializing in **React.js** and modern web technologies. I’m passionate about building **responsive UIs, writing clean code, and designing scalable architectures**, with practical experience in the **MERN stack** for full-stack solutions.
 
-Alongside my frontend expertise, I have practical experience with **MongoDB** and **Express.js**, enabling me to contribute to full-stack solutions when needed.
-
+📩 Open to exciting opportunities — let’s connect and build something impactful together!
+👇 You’ll find my contact information below.
 ---
 
 ## 🧠 Learning Journey & Focus Areas
