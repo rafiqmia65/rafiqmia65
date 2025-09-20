@@ -23,7 +23,8 @@ I’m a dedicated **Frontend Developer** specializing in **React.js** and modern
 
 ### 🌱 Currently Learning
 
-### 🌱 Currently Learning
+- 🐹 **Go (Golang)**  
+   Exploring a fast, statically typed language for building scalable and high-performance backend systems.
 
 - 🔗 **GraphQL / Apollo**  
    Exploring efficient data fetching and flexible APIs beyond REST.
@@ -34,7 +35,8 @@ I’m a dedicated **Frontend Developer** specializing in **React.js** and modern
 - 💾 **SQL (PostgreSQL / MySQL)**  
    Strengthening relational database concepts to become more versatile as a full-stack developer.
 
----
+- 📚 **DBMS**  
+   Building strong fundamentals in Database Management Systems to design and optimize data storage effectively.
 
 ### 🛠 Exploring
 
@@ -91,16 +93,19 @@ I’m a dedicated **Frontend Developer** specializing in **React.js** and modern
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" />&nbsp;
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff" alt="Express.js" />&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB" />&nbsp;
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=fff" alt="Mongoose" />&nbsp;
 </p>
 
 ### 🚀 Currently Learning
 
 <p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff" alt="Go" />&nbsp;
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff" alt="GraphQL" />&nbsp;
   <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=fff" alt="Apollo GraphQL" />&nbsp;
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff" alt="Prisma" />&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL" />&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" alt="MySQL" />&nbsp;
+  <img src="https://img.shields.io/badge/DBMS-FF6F00?style=for-the-badge&logo=databricks&logoColor=fff" alt="DBMS" />&nbsp;
 </p>
 
 ---
