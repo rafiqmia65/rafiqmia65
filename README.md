@@ -9,11 +9,13 @@
 
 ## 💫 About Me
 
-I’m a dedicated **Frontend Developer** specializing in **React.js** and modern web technologies. I’m passionate about building **responsive UIs, writing clean code, and designing scalable architectures**, with practical experience in the **MERN stack** for full-stack solutions.
+🌐 I’m a Frontend Developer who loves turning ideas into smooth, modern, and responsive web experiences. Skilled in React.js and Next.js, I enjoy building apps that are not only functional but also fast, scalable, and user-friendly.
 
-📩 Open to exciting opportunities — let’s connect and build something impactful together!
+✨ Writing clean, maintainable code, designing engaging UIs, and exploring the latest web trends keep me inspired every day.
 
-👇 You’ll find my contact information below.
+🚀 With practical experience in the MERN stack, I can bring both frontend creativity and backend power to deliver complete, full-stack solutions.
+
+📩 Always open to exciting opportunities — let’s connect and create something impactful together!
 
 ---
 
