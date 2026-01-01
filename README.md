@@ -9,13 +9,15 @@
 
 ## 💫 About Me
 
-🌐 I’m a Frontend Developer who loves turning ideas into smooth, modern, and responsive web experiences. Skilled in React.js and Next.js, I enjoy building apps that are not only functional but also fast, scalable, and user-friendly.
+🌐 Hi! I’m **Md Rafiq Mia**, a passionate **Frontend Developer** who loves crafting smooth, modern, and responsive web experiences. I specialize in **React.js** and **Next.js**, focusing on building user interfaces that are not only visually appealing but also fast, accessible, and scalable.
 
-✨ Writing clean, maintainable code, designing engaging UIs, and exploring the latest web trends keep me inspired every day.
+✨ I enjoy writing clean, maintainable code and transforming complex ideas into intuitive digital products. From component-driven development to responsive layouts, I care deeply about both **developer experience** and **user experience**.
 
-🚀 With practical experience in the MERN stack, I can bring both frontend creativity and backend power to deliver complete, full-stack solutions.
+🚀 Alongside frontend expertise, I have hands-on experience with the **MERN stack** and work confidently with backend tools like **Node.js, Express, Prisma ORM, and PostgreSQL**. This allows me to collaborate effectively across the stack and build well-structured, full-featured applications.
 
-📩 Always open to exciting opportunities — let’s connect and create something impactful together!
+🧠 I’m always learning and refining my skills—exploring better frontend architecture, reusable component systems, and modern web best practices to write scalable, future-proof code.
+
+📩 I’m open to exciting opportunities, collaborations, and open-source contributions. Let’s connect and build something meaningful together!
 
 ---
 
@@ -30,9 +32,6 @@
 
 - 🔗 **GraphQL / Apollo**  
    Learning to build efficient data-fetching layers and flexible APIs beyond REST [citation:2][citation:6].
-
-- 🗄️ **Prisma ORM**  
-   Mastering a TypeScript-friendly ORM to work seamlessly with both MongoDB and relational databases [citation:3][citation:10].
 
 ### 🛠 Exploring
 
@@ -87,22 +86,21 @@
 ### 🧠 Backend Knowledge
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" />&nbsp;
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff" alt="Express.js" />&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB" />&nbsp;
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=fff" alt="Mongoose" />&nbsp;
-  <img src="https://img.shields.io/badge/DBMS-FF6F00?style=for-the-badge&logo=databricks&logoColor=fff" alt="DBMS" />&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL" />&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" alt="MySQL" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=fff" />&nbsp;
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />&nbsp;
 </p>
 
 ### 🚀 Currently Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff" alt="Go" />&nbsp;
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff" alt="GraphQL" />&nbsp;
-  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=fff" alt="Apollo GraphQL" />&nbsp;
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff" alt="Prisma" />&nbsp;
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff" />&nbsp;
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
+  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=fff" />&nbsp;
 </p>
 
 ---
