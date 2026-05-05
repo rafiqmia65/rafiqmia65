@@ -1,5 +1,11 @@
 <h1 align="center">Hi, I'm Md Rafiq Mia 👋</h1>
-<h3 align="center">⚡ Frontend Developer | React Specialist | UI Enthusiast</h3>
+<h3 align="center">
+⚡ Full Stack Developer | MERN • Next.js • Prisma • PostgreSQL • Docker
+</h3>
+
+<p align="center">
+Building scalable SaaS & modern web applications
+</p>
 
 <p align="center">
   <img src="img/rafiqmia65.png" alt="Md Rafiq Mia" />
@@ -9,15 +15,27 @@
 
 ## 💫 About Me
 
-🌐 Hi! I’m **Md Rafiq Mia**, a passionate **Frontend Developer** who loves crafting smooth, modern, and responsive web experiences. I specialize in **React.js** and **Next.js**, focusing on building user interfaces that are not only visually appealing but also fast, accessible, and scalable.
+🌐 Hi! I’m **Md Rafiq Mia**, a passionate **Full Stack Developer** with a strong focus on building modern, scalable, and high-performance web applications.
 
-✨ I enjoy writing clean, maintainable code and transforming complex ideas into intuitive digital products. From component-driven development to responsive layouts, I care deeply about both **developer experience** and **user experience**.
+💻 My core strength lies in **React.js, Next.js, and the MERN stack**, where I craft responsive, user-friendly interfaces while designing robust backend architectures.
 
-🚀 Alongside frontend expertise, I have hands-on experience with the **MERN stack** and work confidently with backend tools like **Node.js, Express, Prisma ORM, and PostgreSQL**. This allows me to collaborate effectively across the stack and build well-structured, full-featured applications.
+🚀 I work across the entire development lifecycle — from frontend UI/UX design to backend architecture and API development, ensuring seamless integration between all layers of the system.
 
-🧠 I’m always learning and refining my skills—exploring better frontend architecture, reusable component systems, and modern web best practices to write scalable, future-proof code.
+I have hands-on experience building real-world production applications, developing interactive UIs alongside secure, scalable REST APIs and well-structured database systems.
 
-📩 I’m open to exciting opportunities, collaborations, and open-source contributions. Let’s connect and build something meaningful together!
+🛠 **Tech Stack & Tools:**
+
+- ⚛️ **Frontend:** React, Next.js, Tailwind CSS, TanStack Query
+- 🛠 **Backend:** Node.js, Express.js
+- 🗄 **Database:** MongoDB, PostgreSQL (Prisma ORM)
+- 🔐 **Auth:** Firebase Auth, JWT, Better Auth, NextAuth
+- ⚙️ **Tools & DevOps:** Docker, Stripe, Cloudinary
+
+✨ My approach goes beyond just writing code — I think in terms of system design, performance optimization, and scalability to build efficient, maintainable, and future-ready applications.
+
+🧠 I’m continuously exploring new technologies and architectural patterns. Currently, I’m learning **Go (Golang)** and **GraphQL** to expand my backend expertise.
+
+📩 I’m open to **remote opportunities, collaborations, and open-source contributions**. Let’s build something impactful together!
 
 ---
 
@@ -28,10 +46,10 @@
 ### 🌱 Currently Learning
 
 - 🐹 **Go (Golang)**  
-   Exploring a fast, statically typed language for building scalable and high-performance backend systems [citation:1].
+   Exploring a fast, statically typed language for building scalable and high-performance backend systems.
 
 - 🔗 **GraphQL / Apollo**  
-   Learning to build efficient data-fetching layers and flexible APIs beyond REST [citation:2][citation:6].
+   Learning to build efficient data-fetching layers and flexible APIs beyond REST.
 
 ### 🛠 Exploring
 
@@ -95,12 +113,19 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />&nbsp;
 </p>
 
+### ⚙️ Tools & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
+</p>
+
 ### 🚀 Currently Learning
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff" />&nbsp;
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
   <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=fff" />&nbsp;
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />&nbsp;
 </p>
 
 ---
