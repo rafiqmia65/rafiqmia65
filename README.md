@@ -1,12 +1,5 @@
-<h1 align="center">
-  <img src="https://img.shields.io/badge/Hi-111111?style=for-the-badge&logo=github&logoColor=white" />
-  I'm Md Rafiq Mia
-</h1>
-
-<h3 align="center">
-  <img src="https://img.shields.io/badge/Developer-111111?style=for-the-badge&logo=code&logoColor=white" />
-  Full Stack Developer | MERN • Next.js • Prisma • PostgreSQL • Docker
-</h3>
+<h1 align="center">Hi, I'm Md Rafiq Mia 👋</h1> 
+<h3 align="center"> ⚡ Full Stack Developer | MERN • Next.js • Prisma • PostgreSQL • Docker </h3>
 
 <p align="center">
 Building scalable SaaS & modern web applications
