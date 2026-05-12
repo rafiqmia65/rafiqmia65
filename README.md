@@ -11,25 +11,17 @@ Building scalable SaaS & modern web applications
 
 ---
 
-## 💫 About Me
+## 💫 About
 
-🌐 Hi! I’m **Md Rafiq Mia**, a passionate **Full Stack Developer** with a strong focus on building modern, scalable, and high-performance web applications.
+I’m a Full-Stack Developer focused on building scalable, high-performance web applications with clean architecture and great user experience.
 
-💻 My core strength lies in **React.js, Next.js, and the MERN stack**, where I craft responsive, user-friendly interfaces while designing robust backend architectures.
+I enjoy solving real-world problems through clean architecture, intuitive user experiences, and efficient backend systems. I work across the full development lifecycle — from frontend interfaces to backend APIs and database design — to deliver reliable and production-ready applications.
 
-🚀 I work across the entire development lifecycle — from frontend UI/UX design to backend architecture and API development, ensuring seamless integration between all layers of the system.
+Over the past few years, I’ve developed multiple full-stack applications including AI-powered platforms, education systems, booking applications, and productivity tools. Through these projects, I’ve gained hands-on experience in authentication systems, payment processing, AI integrations, state management, database optimization, and scalable system architecture.
 
-I have hands-on experience building real-world production applications, developing interactive UIs alongside secure, scalable REST APIs and well-structured database systems.
+I’m passionate about writing maintainable code, improving application performance, and continuously learning modern development practices. Currently, I’m expanding my expertise in scalable backend architecture, cloud technologies, and advanced full-stack engineering.
 
----
-
-✨ My approach goes beyond just writing code — I think in terms of system design, performance optimization, and scalability to build efficient, maintainable, and future-ready applications.
-
-🧠 I’m continuously exploring new technologies and architectural patterns. Currently, I’m learning **Go (Golang)** **AWS** and **GraphQL** to expand my backend expertise.
-
-📩 I’m open to **remote opportunities, collaborations, and open-source contributions**. Let’s build something impactful together!
-
----
+## I’m open to remote opportunities, collaborations, and challenging projects where I can contribute meaningful solutions while continuing to grow as a developer.
 
 ## 🧠 Learning Journey & Focus Areas
 
@@ -48,19 +40,24 @@ I have hands-on experience building real-world production applications, developi
 
 ### 🛠 Exploring
 
-- 🧩 **Frontend Architecture Best Practices**  
-   Investigating design patterns, state management strategies, and component-driven development for robust frontend systems.
-- 🏗️ **Scalable & Maintainable Code Structures**  
-   Focusing on modularization, clean code principles, and efficient folder organization to support long-term project growth.
+- 🧩 **Frontend Architecture & State Management**  
+  Exploring scalable frontend architectures, state management patterns, and component-driven design to build maintainable and high-performance applications.
+
+- 🏗️ **Clean & Scalable Codebase Design**  
+  Focusing on modular code structure, reusable patterns, and best practices to improve long-term maintainability and scalability.
+
+- ⚙️ **Backend Architecture & API Design**  
+  Learning scalable backend system design, REST API best practices, database optimization, and efficient server-side architecture using Node.js and Express.
 
 ---
 
 ### 📘 Building
 
 - 🧱 **Reusable React Components**  
-   Creating flexible, customizable, and well-documented components to accelerate development and maintain consistency.
-- 🎨 **Custom UI Libraries**  
-   Developing design systems and style guides to deliver cohesive and accessible user experiences across projects.
+  Building scalable and reusable React components with clean architecture to improve development speed, maintainability, and consistency across projects.
+
+- 🎨 **Design Systems & UI Patterns**  
+  Developing consistent UI patterns and structured design systems to ensure reusable, accessible, and visually coherent user interfaces.
 
 ---
 
@@ -82,10 +79,13 @@ I have hands-on experience building real-world production applications, developi
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
 </p>
 
-<h3>💻 Frontend (Main Skills)</h3>
+---
+
+### 💻 Frontend (Main Skills)
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
@@ -93,9 +93,13 @@ I have hands-on experience building real-world production applications, developi
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Zustand-FF6B6B?style=for-the-badge&logo=zustand&logoColor=ffffff" />
 </p>
 
-<h3>🧠 Backend Knowledge</h3>
+---
+
+### 🧠 Backend Knowledge
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=ffffff" />
@@ -106,12 +110,22 @@ I have hands-on experience building real-world production applications, developi
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=ffffff" />
 </p>
 
-<h3>⚙️ Tools & DevOps</h3>
+---
+
+### ⚙️ Tools & DevOps
+
 <p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff" />
 </p>
 
-<h3>🚀 Currently Learning</h3>
+---
+
+### 🚀 Currently Learning
+
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=ffffff" />
